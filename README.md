@@ -66,11 +66,11 @@ I learn fastest by building — most of my skills come from experimenting and cr
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Manjeetjay&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Manjeetjay&show_icons=true&theme=transparent&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Manjeetjay&theme=transparent&hide_border=true)
+![](https://streak-stats.demolab.com?user=Manjeetjay&theme=transparent&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjeetjay&theme=transparent&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjeetjay&layout=compact&theme=transparent&hide_border=true)
 
 
 ---
