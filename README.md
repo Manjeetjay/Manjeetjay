@@ -95,19 +95,6 @@ superpower : Turning ideas into working products 🚀
 <img src="https://streak-stats.demolab.com?user=Manjeetjay&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="48%" />
 
 </div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Manjeetjay&label=Profile%20Views&icon=5&color=6)](https://visitcount.itsvg.in)
