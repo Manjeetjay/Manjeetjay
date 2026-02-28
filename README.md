@@ -39,6 +39,43 @@ superpower : Turning ideas into working products 🚀
 
 ---
 
+## 🚀 My Projects
+
+Here are some of the projects I’ve built focusing on real-world problem solving, backend systems, and developer tools.
+
+---
+
+### 🧠 CodeQuest
+🔗 **Live Demo:** https://codequest-x99b.onrender.com  
+
+A full-stack coding platform that helps users learn **Data Structures & Algorithms** through real-world problem analogies instead of traditional abstract questions.
+
+**🛠 Tech Stack**
+`Spring Boot` `React` `PostgreSQL` `REST APIs` `JWT Auth`
+
+
+### ✈️ Travel Agency Website
+🔗 **Live Demo:** https://dhanitravels-1.onrender.com/  
+
+A production-ready **lead generation website** for a travel agency with a complete admin management system.
+
+**🛠 Tech Stack**
+`Spring Boot` `React` `Database Management` `Admin Panel`
+
+
+### 🌙 Sleepless *(Private Project)*
+A lightweight self-hosted service that prevents free-tier deployments from going idle by periodically pinging services.
+
+**🛠 Tech Stack**
+`Spring Boot` `PostgreSQL` `Docker` `Cron Scheduling`
+
+
+
+⭐ ***`More projects coming soon...`***
+
+---
+
+
 ## 🌐 Connect With Me
 
 <div align="center">
