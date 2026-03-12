@@ -26,6 +26,4 @@ I want to work on **developer platforms, infrastructure tools, and high-impact p
 
 # 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/manjeetjay)
-[GitHub](https://github.com/manjeetjay)
-[Email](manjeetjay00@gmail.com)
+[LinkedIn](https://linkedin.com/in/manjeetjay)  ,  [Email](manjeetjay00@gmail.com)
