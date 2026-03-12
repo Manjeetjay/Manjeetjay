@@ -4,21 +4,19 @@ I am a Computer Science student and software developer who enjoys building real-
 
 I enjoy turning ideas into working products and deploying them so people can actually use them.
 
+## 🛠 Skills
 
-# 🛠 Skills
+Java · Python · C
 
-| Category | Skills |
-|--------|--------|
-| Languages | Java  · Python  · C |
-| Backend Development | Spring Boot  · REST APIs  · JWT Authentication  · JPA/Hibernate  · Database Design  · Caching Strategies  |
-| Frontend | React  · JavaScript  · HTML  · CSS  |
-| Databases | PostgreSQL  · MongoDB  · Redis  · MySQL |
-| Tools & Technologies | Docker  · Git  · GitHub  · Postman  · Android Studio · Figma  · Blender  |
-| Analytics | Google Analytics · Google Search Console |
-| Concepts | System Design  · API Design  · Authentication & Authorization  · Database Optimization  · MVC Architecture  · Containerized Deployment  |
+Spring Boot · REST APIs · JWT Authentication · JPA/Hibernate · Database Design · Caching Strategies
 
+React · JavaScript · HTML · CSS
 
-# 🎯 Goals
+PostgreSQL · MongoDB · Redis · MySQL
+
+Docker · Git · GitHub · Postman · Android Studio · Figma · Blender
+
+## 🎯 Goals
 
 My goal is to become a strong **backend engineer** who can design and build scalable systems used by thousands or millions of users.  
 
